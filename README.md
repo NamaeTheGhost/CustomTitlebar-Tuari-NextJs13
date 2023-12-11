@@ -7,7 +7,7 @@ git clone https://github.com/NamaeTheGhost/CustomTitlebar-Tuari-NextJs13.git
 
 #and
 
-cd <project-name>
+cd CustomTitlebar-Tuari-NextJs13
 
 #and
 
