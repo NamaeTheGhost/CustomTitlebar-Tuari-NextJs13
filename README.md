@@ -15,7 +15,7 @@ npm install
 
 #and
 
-npm run dev
+npm run tauri dev
 ```
 
 This project was made with Next JS and Tauri. This is my first project, so there may be things I wrote incorrectly. I will improve it in the future. Thank you for your understanding.
