@@ -22,4 +22,4 @@ This project was made with Next JS and Tauri. This is my first project, so there
 
 discord : namaethewinner
 
-project by: namaethewinner
+project by: NamaeTheGhost
