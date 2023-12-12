@@ -18,6 +18,9 @@ npm install
 npm run tauri dev
 ```
 
+## You can find a template created by me
+[GitHub Link](https://github.com/NamaeTheGhost/Project-Downloader)
+
 This project was made with Next JS and Tauri. This is my first project, so there may be things I wrote incorrectly. I will improve it in the future. Thank you for your understanding.
 
 discord : namaethewinner
