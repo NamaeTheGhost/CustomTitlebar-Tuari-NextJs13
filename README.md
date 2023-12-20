@@ -33,5 +33,5 @@ If you want to make the project your own
 ```bash
 npm init
 ```
-I have not tested the project with this command yet, so you may receive errors regarding various conflicts or missing commands in the project files (run this command after entering the application file)
+I have not tested the project with this command yet, so you may receive errors regarding various conflicts or missing commands in the project files (run this command after entering the project file)
 
