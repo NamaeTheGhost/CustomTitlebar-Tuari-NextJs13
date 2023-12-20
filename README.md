@@ -26,3 +26,12 @@ This project was made with Next JS and Tauri. This is my first project, so there
 discord : namaethewinner
 
 project by: NamaeTheGhost
+
+
+## Some information
+If you want to make the project your own
+```bash
+npm init
+```
+I have not tested the project with this command yet, so you may receive errors regarding various conflicts or missing commands in the project files (run this command after entering the application file)
+
