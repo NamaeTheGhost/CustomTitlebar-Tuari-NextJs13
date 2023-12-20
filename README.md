@@ -35,3 +35,8 @@ npm init
 ```
 I have not tested the project with this command yet, so you may receive errors regarding various conflicts or missing commands in the project files (run this command after entering the project file)
 
+## Little information about innovations
+I'm working on a new update, here's what will be added with this update:
+  > Titlebar design will change
+  
+  > Project files will be made more organized and understandable.
